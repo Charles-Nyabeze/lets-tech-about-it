@@ -1,4 +1,4 @@
-# Full-Stack GameZone App 
+# Let's Tech About It 
 
       
 ![GitHub license](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge)
