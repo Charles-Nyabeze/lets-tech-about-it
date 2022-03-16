@@ -8,7 +8,7 @@ body, html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
-  background-color: rgb(44, 43, 43);
+  background-color: rgb(255, 0, 0);
 }
 
 a {
@@ -74,7 +74,7 @@ form label {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  background-color: #b5ffae;
+  background-color: #47c5ff;
 }
 
 header {
@@ -82,7 +82,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1%;
-  background-color: rgb(44, 43, 43);
+  background-color: rgb(0, 0, 0);
 }
 
 header h1 {
