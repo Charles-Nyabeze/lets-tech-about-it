@@ -6,6 +6,9 @@
 # Description
 A fullstack app built for tech posts and talk. A mysql database and CMS-style app built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv
 
+![Lets Tech About IT ](https://user-images.githubusercontent.com/90402466/160191017-c4c5123e-5acf-4dde-808e-e441a5f5374c.png)
+
+
 # Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
